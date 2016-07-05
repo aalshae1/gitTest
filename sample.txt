@@ -1,0 +1,6 @@
+#!/bin/sh
+
+exec vim "$@"
+Hi this is a test file
+Cool!
+Hi World! :) 
